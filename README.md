@@ -1,6 +1,8 @@
-### Hi there 👋
 
-![image](https://user-images.githubusercontent.com/6764957/87082196-3418a980-c25d-11ea-9987-0d9787d54100.png)
+![image](https://raw.githubusercontent.com/KletskovG/kletskovg/main/assets/Hi.gif) Hi there, my name is Kletskov Gleb. I am working as Frontend Software engineer in @mailru. Recenlty i was woking in @ramblerdigitalsolutions as TypeScript develop (inner source lib for advertisement) and Ingosstrakh (one of the biggest insurance company in CIS).
+
+
+
 
 <!--
 **KletskovG/kletskovg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
