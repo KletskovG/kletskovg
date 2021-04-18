@@ -1,5 +1,5 @@
 
-![image](https://raw.githubusercontent.com/KletskovG/kletskovg/main/assets/Hi.gif) Hi there, my name is Kletskov Gleb. I am working as Frontend Software engineer in [@mailru](https://github.com/mailru). Recenlty i was woking in @ramblerdigitalsolutions as TypeScript develop (inner source lib for advertisement) and Ingosstrakh (one of the biggest insurance company in CIS).
+![image](https://raw.githubusercontent.com/KletskovG/kletskovg/main/assets/Hi.gif) Hi there, my name is Kletskov Gleb. I am working as Frontend Software engineer in [@mailru](https://github.com/mailru). Recenlty i was woking in [@ramblerdigitalsolutions](https://github.com/ramblerdigitalsolutions) as TypeScript develop (inner source lib for advertisement) and Ingosstrakh (one of the biggest insurance company in CIS).
 
 I am passionate with all stuff which is connected to Software engineering and Web Development in particular.
 
