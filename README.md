@@ -8,7 +8,7 @@ I am passionate with all stuff which is connected to Software engineering and We
 My hobbies are:
   - 🕺 To come off at concerts
   - 🥂 To Chill with my friends 
-  - 👨‍💻 Obviously, write pet projects
+  - 👨‍💻 Obviously, to write pet projects
 
 ### Where to find me
 
