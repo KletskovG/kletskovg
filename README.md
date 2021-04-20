@@ -5,7 +5,10 @@
 
 I am passionate with all stuff which is connected to Software engineering and Web Development in particular.
 
-My hobbies - to come off at concerts, chill with my friends, and, obviously, write pet projects
+My hobbies are:
+  - to come off at concerts
+  - chill with my friends 
+  - obviously, write pet projects
 
 ### Where to find me
 
