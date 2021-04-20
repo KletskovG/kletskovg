@@ -6,9 +6,9 @@
 I am passionate with all stuff which is connected to Software engineering and Web Development in particular.
 
 My hobbies are:
-  - To come off at concerts
-  - Chill with my friends 
-  - Obviously, write pet projects
+  - 🕺 To come off at concerts
+  - 🥂 Chill with my friends 
+  - 👨‍💻 Obviously, write pet projects
 
 ### Where to find me
 
