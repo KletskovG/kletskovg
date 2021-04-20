@@ -5,7 +5,7 @@
 
 I am passionate with all stuff which is connected to Software engineering and Web Development in particular.
 
-My hobbyies - to 
+My hobbyies - to come off at concerts, 
 
 ### Where to find me
 
